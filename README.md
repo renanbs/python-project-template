@@ -101,7 +101,7 @@ Results (0.10s):
 
 ---
 
-#### Coverage no reached
+#### Coverage not reached
 ```zsh
 (my_project-3.8.0) ➜  python-project-template git:(master) ✗  make test
 
